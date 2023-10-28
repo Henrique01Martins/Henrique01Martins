@@ -1,4 +1,4 @@
-# 👨‍🎓 About Me:
+# 📚 About Me:
 Sou estudante de Front-End.
 
 
