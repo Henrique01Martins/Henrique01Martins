@@ -1,5 +1,5 @@
-# 📚 About Me:
-Sou estudante de Front-End.
+# 📚 Sobre Mim:
+Sou um iniciante em desenvolvimento front-end, com conhecimentos básicos em HTML, CSS e JavaScript. Estou ansioso para aprender e crescer nesta área, visando criar experiências web incríveis.
 
 
 # 💻 Tech Stack:
