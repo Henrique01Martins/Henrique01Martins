@@ -68,10 +68,12 @@ Acredito no aprendizado contínuo, na inovação e na tecnologia como ferramenta
 
 📊 Estatísticas do GitHub
 
-<div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Henrique01Martins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique01Martins&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=Henrique01Martins&theme=tokyonight&hide_border=true" /></div>---
+<div align="center"><img width="95%" src="https://github-stats-extended.vercel.app/api?username=Henrique01Martins&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/><img width="95%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Henrique01Martins&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/></div>---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henrique01Martins&color=blueviolet&style=flat-square&label=Visualizações+do+perfil" />
+<div align="center">🚀 Acompanhe minha evolução na programação!
+
+""GitHub" (https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Henrique01Martins)
+
 </div>
 
 🤝 Vamos nos conectar?
