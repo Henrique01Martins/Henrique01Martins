@@ -73,9 +73,3 @@ Acredito no aprendizado contínuo, na inovação e na tecnologia como ferramenta
 🤝 Vamos nos conectar?
 
 Estou sempre aberto a aprender, compartilhar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Henrique01Martins&icon=3&color=3" alt="Contador de visitas"/>
-</div>
