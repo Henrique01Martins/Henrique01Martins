@@ -66,10 +66,6 @@ Acredito no aprendizado contínuo, na inovação e na tecnologia como ferramenta
 - Desenvolvimento com PHP e Java.
 - Inteligência Artificial aplicada à programação.
 
-📊 Estatísticas do GitHub
+🤝 Vamos compartilhar nossos conhecimentos?
 
-<div align="center"><img width="95%" src="https://github-stats-extended.vercel.app/api?username=Henrique01Martins&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/><img width="95%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Henrique01Martins&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/></div>---
-
-🤝 Vamos nos conectar?
-
-Estou sempre aberto a aprender, compartilhar conhecimentos, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
+Estou sempre disposto a aprender, colaborar em projetos e conhecer novas oportunidades na área de tecnologia.
